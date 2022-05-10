@@ -1,0 +1,18 @@
+image,caption
+1.jpg,Two male farmers are harvesting crops .
+2.jpg,One female farmer is harvesting the crops .
+3.jpg,Harvester machine is harvesting the crops .
+4.jpg,One female farmer is planting the crops .
+5.jpg,Four female farmers are planting the crops .
+6.jpg,One male farmer is spraying fertilizer on the crops .
+7.jpg,One male farmer is spraying fertilizer on the crops .
+8.jpg,Two male farmers is spraying fertilizer on the crops .
+9.jpg,One male farmer is spraying fertilizer on the crops .
+10.jpg,One female farmer is watering the crops .
+11.jpg,farmer is watering the crops .
+12.jpg,One male farmer is monitoring the crops .
+13.jpg,One male farmer is monitoring the crops .
+14.jpg,One male farmer is monitoring the crops .
+15.jpg,One male farmer is watering the crops .
+16.jpg,One female and one male famers are monitoring the crops .
+
