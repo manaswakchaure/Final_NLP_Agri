@@ -1,0 +1,1301 @@
+u-tokyo@DL-BoxII:~/manas/nlp_argi0$ python train.py
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: bib flies if sunny plane pair potato potato scooter conversation conversation conversation wet pours pours clear building brown magazines himself match stands indoors rail things stores shephard pants handle waving tray town balcony peach court deep breed landscape looking stool figure sandy rowboat handstand dolphins ferry guys mud cigarettes tray
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: bib flies if sunny plane pair potato potato scooter conversation conversation conversation wet pours pours clear building brown magazines himself match stands indoors rail things stores shephard pants handle waving tray town balcony peach court deep breed landscape looking stool figure sandy rowboat handstand dolphins ferry guys mud cigarettes tray
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: airborne print furry airborne chinese sparring upraised pugs casual trick sale doberman flip licks trophy split snowbank about confetti ear device marketplace jesus fan wet beer parallel elaborate court smaller angels heart family skates wand eat bounce sacks bowler ticket photographed photographed travel paints patch building avoid pattern ocean of
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: photographer pasta hides touches cardboard cardboard sale railroad earring plays cobblestone mouths sailor which along tricks split swimming punches inflated including placed colored wand sacks next diner cheering distant bib young starring airborne print furry airborne chinese sparring upraised pugs casual trick sale doberman flip licks trophy split snowbank about
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: giving upraised tights friends kiddie barking leafy cop midst display dropping prey train telephone bmx bmx boards ballet looking dropping prey train telephone plaza dragging hands case swimmer geyser from audience sewing low ends marx which plane mohawk sparklers hose real finger patterned claus whilst pursued league club fetches league
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: recently extreme misses lap driven camera sparring shoots performs jar performs jar plaid climb kayaker elaborate preparing tan sword cement tube objects setting belt himself back blanket <UNK> inground barrier turning kid gymnastic gymnastic socks plaid doing participating shephard pants handle waving tray town balcony peach bicyclist item outfit stand
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                  
+Example 1 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a man in a red shirt is running through the water . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a man in a blue shirt is standing on a bench . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a blue shirt is standing on a bench . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a man in a blue shirt is standing on a bench . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a bench with a <UNK> in the background . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a bench with a <UNK> in the background . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a blue shirt is jumping over a snowy hill . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is jumping over a snowy hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a man in a red shirt is standing on a bench with a <UNK> in the background . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black shirt is standing in front of a building . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a man in a red shirt and a blue shirt is standing on a bench . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a blue shirt is jumping over a <UNK> . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is jumping off a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink shirt is standing on a bench with a <UNK> in the background . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and a black shirt is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young boy in a blue shirt is standing on a swing . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy in a blue shirt is jumping over a hurdle . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is jumping over a snowy hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young boy in a blue shirt is standing on a swing . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black shirt is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a red shirt is playing with a red ball . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is jumping into a pool . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is jumping off a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a red shirt is jumping into a pool . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black hat is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is jumping on a swing . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy in a blue shirt is jumping into the air . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a rock overlooking a lake . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is standing on a swing . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black hat is standing in front of a building . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy in a field . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy in a red shirt is jumping into a pool . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy in a field . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is standing in front of a large tree . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing with a ball in a field . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a man in a red shirt is standing on a rock overlooking a lake . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a rock in front of a building . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in a field . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a black shirt and a black hat is standing on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy is jumping into a pool . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a rock in front of a large building . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black hat is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt and pink pants is holding a baby in a pink dress . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is running on a dirt path . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and black pants is riding a bicycle . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt is standing on a sidewalk with a woman in a black shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a boy in a blue shirt is jumping off a ramp . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is jumping off a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a rock in front of a large rock . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a rock in front of a large tree . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is standing on a rock with a woman in a black shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a tennis ball . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a wooden floor . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a rock in front of a large tree . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red jacket is sitting on a bench with a woman in a black jacket . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red jacket is standing on a rock in front of a building . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a rock with a woman in a black shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is running on a playground . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is jumping over a hurdle . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a black shirt and jeans is sitting on a bench with a man in a black shirt and sunglasses . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is running on a wooden floor . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is jumping on a trampoline . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk with a woman in a black shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young boy wearing a red shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy wearing a blue shirt is jumping off a swing . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a black shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is jumping on a trampoline . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog runs through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is climbing a rock wall . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is jumping on a trampoline . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is jumping on a trampoline . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is riding a skateboard down a paved road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing in a puddle . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is running on a wooden floor . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a playground . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is running on a wooden floor . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a rock with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is jumping into a pool . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is running on a wooden floor . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is running on a wooden floor . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog runs through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is sitting on a wooden bench . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is sitting on a wooden bench . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is jumping on a trampoline . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy wearing a blue shirt is jumping on a trampoline . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink dress is jumping on a trampoline . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing in a puddle . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a grassy lawn . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is riding a horse on a dirt track . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is playing in a puddle . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a skateboard down a paved road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing in a puddle . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a rock in front of a mountain . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is jumping on a trampoline . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is jumping on a trampoline . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench in front of a large rock . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing in a puddle . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a white shirt and jeans is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing in a puddle . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog runs through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog runs through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing in a puddle . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is riding a bike on a dirt track . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is sitting on a wooden bench . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is standing on a hill overlooking a field . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink dress is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is sitting on a wooden bench . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl wearing a pink shirt is playing with a hula hoop . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is sitting on a bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog running in the snow . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a rock with a woman in a black shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is riding a skateboard down a paved road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking on a sidewalk . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing in front of a large rock . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is standing in front of a tree . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a skateboard down a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink shirt is running through a flowery field . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red jacket is standing on a rock with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl wearing a pink hat and blue jeans is swinging on a swing . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is running on the grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is walking on a sidewalk . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a white shirt and jeans is jumping off a rock into a lake . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a skateboard down a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is playing in a puddle . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a rock in front of a building . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint                                                                                 Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl is swinging on a swing . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is running on the grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is riding a horse on a dirt track . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+                                                 Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is running on the grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a rock with a woman in a blue shirt . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a rock with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is standing in front of a large tree . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is jumping on a trampoline . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink dress is walking through a flowery tunnel . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is jumping in the air . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is standing on a sidewalk with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a blue shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with a dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is holding a camera . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is standing in front of a tree . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is sitting on a bench in a park . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is jumping his skateboard over a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is running through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is standing on a wooden rocking surface . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink dress is walking through a puddle of water . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is jumping off a wooden porch . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink tutu is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is standing on a hill overlooking a grassy field . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is standing in front of a tree . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is sitting on a bench in the park . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is standing on a wooden rocking surface . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink dress is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is jumping his skateboard over a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is jumping his bike over a ramp . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking on a path beside a fence . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is sitting on a bench in the park . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is standing on a wooden beam . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is running through a sprinkler . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt and jeans is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a rock in a wooded area . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl wearing a pink shirt is walking on a path beside a fence . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a flowery field . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with his dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl wearing a pink shirt and blue jeans is swinging on a rope swing . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt and jeans is running through a field of tall grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is standing on a rock with a fishing pole in the background . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl is running on a path with a pink purse . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is sitting on a bench with his dog . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is playing with a ball in a garden . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl is jumping on a trampoline . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a skateboard down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench in a park . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is playing with a ball in a garden . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt and jeans is running through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is sitting on a bench in the park . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is standing in front of a large bush . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a white shirt and jeans is jumping his skateboard over a rail . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a young girl in a pink dress is standing on a rock . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt and jeans is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt path . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a flowery field . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing in front of a <UNK> . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt and jeans is running through a field of tall grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through the grass . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt and jeans is running through a field of grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike down a paved road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is standing in front of a large bush . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking on a path beside a fence . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is standing in front of a tree . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a rock with a very large tree in his hand . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is running through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is standing on a wooden beam . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt and jeans is playing in the grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is sitting on a bench in front of a wooden bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans resting his head on a rock . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl wearing a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a skateboard down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a ribbon . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl in a pink shirt is walking through a field of tall flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is laying on a <UNK> bed . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl in a pink dress is walking through the snow . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is walking on a sidewalk . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans skateboards down a hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a rock in a forest . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking through a grassy area . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with his dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt and jeans is walking on a path in a park . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a ribbon . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink shirt is walking through a flowery field . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking on a sidewalk with a pink purse and a white purse . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike down a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a rock wall . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young boy wearing a blue shirt is running on a track . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man is swinging on a rope swing . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is riding a bike on a dirt road . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink dress is playing with a ribbon wand . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt and jeans is sitting on a rock wall . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink shirt is walking through a puddle of water . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt is sitting on a bench in front of a wooden bench . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red jacket is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is throwing a snowball . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt is running through a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is jumping his bike over a sign that says " free dinner " . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a hula hoop . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is sitting on a bench . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a little girl in a pink dress is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a little girl in a pink dress is walking through a field of flowers . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans is standing on a rock with a very large tree branch . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a ribbon wand . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a white shirt and jeans is standing on a rock with a very large tree in his hand . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through the grass . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl wearing a pink shirt and jeans is running on a track . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans skateboards down a hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a ribbon wand . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a girl in a pink shirt is walking through a grassy area . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a girl in a pink shirt and jeans is running through a field of tall grass . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a blue shirt and jeans skateboards down a hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a girl in a pink shirt is swinging upside down from a tree branch in a park . <EOS>
+=> Saving checkpoint
+Example 1 CORRECT: Dog on a beach by the ocean                                                                                                                                                              
+Example 1 OUTPUT: <SOS> a brown dog is running through the water . <EOS>
+Example 2 CORRECT: A women is planting a crop in the farm
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench with a dog . <EOS>
+Example 3 CORRECT: A man is watering the crop in the farm
+Example 3 OUTPUT: <SOS> a young girl is swinging on a vine . <EOS>
+Example 4 CORRECT: A man is monitoring the crop in the farm
+Example 4 OUTPUT: <SOS> a young girl is running on a path in a grassy field . <EOS>
+Example 5 CORRECT: A man is spraying fertilizer in the farm
+Example 5 OUTPUT: <SOS> a man in a red shirt and jeans skateboards down a dirt hill . <EOS>
+Example 6 CORRECT: A girl is picking fruit from the tree
+Example 6 OUTPUT: <SOS> a little girl in a pink dress is playing with a pink and white ball . <EOS>
+=> Saving checkpoint
+
